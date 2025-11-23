@@ -1,0 +1,11 @@
+- Step 1: Add the Chat Trigger node
+- Step 2: Add the Google Gemini Chat Model node
+- Step 3: Connect your Google Gemini API credentials
+- Step 4: Add the AI Agent node
+- Step 5: Connect Chat Trigger → AI Agent
+- Step 6: Connect Gemini Chat Model → AI Agent (Language Model input)
+- Step 7: Save the workflow
+- Step 8: Activate the workflow
+- Step 9: Send a chat message to test the agent
+- # screenshot
+  <img width="874" height="475" alt="Screenshot 2025-11-23 104026" src="https://github.com/user-attachments/assets/1e45c107-e2d0-4a0c-aee1-d2401e2a9aeb" />
